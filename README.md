@@ -1,5 +1,5 @@
 # redis-lettuce
-07.13 redis 교육 실습 예제에 문제가 많아 추가 및 수정함  
+07.13 redis 교육 실습 예제에 문제가 많아 추가 및 수정함.   
 
 # Download Jar    
 https://github.com/pdev-gd/redis-lettuce/blob/main/out/artifacts/lettuce2_jar/lettuce2.jar  
