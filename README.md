@@ -6,7 +6,9 @@ java -jar lettuce2.jar
 
 # Example 
 Hello Lettuce World
+
 Redis-7.0.2, Lettuce-6.1.7
+
 Redis Connection -> OK
 PONG
 1:STRING   2:LIST   3:SET   4:ZSET   5:HASH  6:COMMON KEYS
