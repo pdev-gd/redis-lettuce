@@ -1,5 +1,5 @@
 # redis-lettuce
-# 07.13 redis 교육 실습 예제에 문제가 많아 추가 및 수정하였습니다
+07.13 redis 교육 실습 예제에 문제가 많아 추가 및 수정하였습니다
 
 # Run 
 java -jar lettuce2.jar
